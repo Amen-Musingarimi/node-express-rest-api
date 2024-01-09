@@ -1,0 +1,18 @@
+{
+  "name": "express-rest-api",
+  "version": "1.0.0",
+  "description": "Learn to build RESTful APIs with Node.js and Express.js. This repository provides a hands-on guide for mastering key concepts and best practices in API development. Explore examples, middleware usage, and database integration. Perfect for developers aiming to excel in creating scalable and efficient RESTful services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
